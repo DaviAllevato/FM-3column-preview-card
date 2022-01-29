@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 
  ***Mobile design***
 
-![screenshot-mobile](screenshots/screenshot_mobile2.png)
+![screenshot-mobile](screenshots/screenshot_mobile.png)
 
 
 ### Links
