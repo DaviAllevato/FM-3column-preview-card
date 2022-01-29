@@ -27,16 +27,16 @@ Os usuários devem ser capazes de:
 
  ***Desktop design***
 
-![screenshot-desktop](screenshot/screenshot_desktop.png)
+![screenshot-desktop](screenshots/screenshot_desktop.png)
 
  ***Mobile design***
 
-![screenshot-mobile](screenshot/screenshot_mobile.png)
+![screenshot-mobile](screenshots/screenshot_mobile2.png)
 
 
 ### Links
 
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui]
+- URL do site ao vivo: [https://daviallevato.github.io/FM-3column-preview-card/](https://daviallevato.github.io/FM-3column-preview-card/)
 
 ## Meu processo
 
@@ -55,7 +55,7 @@ Os usuários devem ser capazes de:
 
 - Frontend Mentor - [@DaviAllevato](https://www.frontendmentor.io/profile/DaviAllevato)
 
--GitHub - [DaviAllevato](https://github.com/DaviAllevato)
+- GitHub - [DaviAllevato](https://github.com/DaviAllevato)
 
 
 
